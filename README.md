@@ -1,5 +1,4 @@
 # APIs-Challenge
-APIs Homework
 
 To Whom It May Concern:
 
